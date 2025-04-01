@@ -23,19 +23,19 @@ function PublicRights() {
                             </h1>
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                    <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">We maintain a sole and exclusive licence policy for published content rather than copyright transfer</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                    <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Authors retain ownership of their copyright while granting exclusive publishing rights</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                    <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">This policy balances author interests with journal sustainability and reputation</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                    <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Some specific cases may require different arrangements - refer to Author Instructions for details</p>
                                 </div>
                             </div>
@@ -46,19 +46,19 @@ function PublicRights() {
                             </h1>
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                    <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p  >Authors are recognized as the copyright owners, demonstrating our value of author relationships</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                    <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p  >Centralized management of permissions and licensing ensures maximum content dissemination</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                    <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p  >Protection against infringement, inappropriate use, libel, and plagiarism</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                    <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p  >Ability to maintain and monitor the integrity of published content across all media</p>
                                 </div>
                             </div>
@@ -69,19 +69,19 @@ function PublicRights() {
                             </h1>
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                    <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Exclusive rights enable efficient management of content distribution through intermediaries</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                    <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">The journal can take protective measures on behalf of authors when necessary</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                    <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Maintaining exclusive rights helps uphold the integrity of peer-reviewed and accepted articles</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                    <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Comprehensive management of content across all media platforms</p>
                                 </div>
                             </div>

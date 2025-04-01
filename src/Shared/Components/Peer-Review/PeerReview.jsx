@@ -25,23 +25,23 @@ function PeerReview() {
 
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className=""> Scope & Relevance – Ensures the manuscript aligns with IJSCGT’s focus areas.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Plagiarism & Ethics – Runs plagiarism checks and verifies adherence to ethical guidelines.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Formatting & Structure – Reviews compliance with journal formatting and citation standards.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Language & Clarity – Assesses readability and academic writing quality.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Editorial Decision – Papers meeting criteria proceed to peer review; others may be returned for revision or rejected.</p>
                                 </div>
 
@@ -55,11 +55,11 @@ function PeerReview() {
                             </h1>
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Manuscripts passing the initial screening are sent to at least two independent reviewers for evaluation.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">The identities of both the authors and reviewers remain anonymous to ensure unbiased assessments.</p>
                                 </div>
 
@@ -73,11 +73,11 @@ function PeerReview() {
                             </h1>
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Based on reviewer feedback, authors may be requested to revise their manuscript.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">A revised version must be submitted within the specified deadline, with a detailed response addressing the reviewers' comments.</p>
                                 </div>
 
@@ -92,15 +92,15 @@ function PeerReview() {
                             </p>
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Accepted: The manuscript is approved for publication.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Minor/Major Revisions: The author must make necessary changes before acceptance.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Rejected: The manuscript does not meet the journal's standards.</p>
                                 </div>
 
@@ -117,23 +117,18 @@ function PeerReview() {
 
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Once accepted, authors receive a final proof for approval before publication.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">The article is published in the upcoming issue and indexed accordingly.</p>
                                 </div>
-
-
-
                             </div>
                         </section>
                         <section className="flex flex-col gap-2">
-                            <p className="bg-[#AECC53] p-2">Note to Authors : Carefully review your manuscript against IJSCGT submission guidelines. Ensure that all sections are well-structured, thoroughly developed, and supported by empirical evidence and relevant research in sustainable computing and green technologies.</p>
+                            <p className="bg-[#AECC53] rounded-lg  p-4">Note to Authors : Carefully review your manuscript against IJSCGT submission guidelines. Ensure that all sections are well-structured, thoroughly developed, and supported by empirical evidence and relevant research in sustainable computing and green technologies.</p>
                         </section>
-
-
                     </section>
                 </div>
             </section>

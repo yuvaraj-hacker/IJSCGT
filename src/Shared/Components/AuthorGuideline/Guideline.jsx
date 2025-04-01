@@ -26,37 +26,37 @@ function Guideline() {
                             </div>
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">  Manuscripts must strictly follow the IJSCGT template and adhere to proper formatting guidelines</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className=""> Abstracts should be between 200–1000 characters, structured clearly with concise objectives, methodology, and findings.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className=""> Include 3 to 8 keywords to enhance indexing and searchability.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className=""> References must comply with the IEEE/APA citation style, ensuring consistency and accuracy.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">  Maintain proper grammar, spelling, and formal academic English throughout the manuscript.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className=""> All figures and tables must have descriptive captions and be appropriately referenced in the text.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className=""> Ethical approval statements must be provided where applicable, particularly for studies involving human or animal subjects.</p>
                                 </div>
@@ -71,37 +71,37 @@ function Guideline() {
                             </div>
                             <div className='flex flex-col gap-2'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className=""><span className='text-[ #002c2a] font-semibold'>Initial Manuscript Screening  </span> – The editorial team evaluates submissions for scope, quality, and adherence to guidelines.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className=""><span className='text-[ #002c2a] font-semibold'>Double-Blind Peer Review </span> – Manuscripts are reviewed by at least two independent experts to ensure scholarly integrity.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className=""><span className='text-[ #002c2a] font-semibold'>Author Revision Period</span> – Authors receive reviewer feedback and are provided with clear deadlines for revisions.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className=""><span className='text-[ #002c2a] font-semibold'>Final Editorial Decision</span> –  The editorial board makes the final decision based on reviewer recommendations.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className=""><span className='text-[ #002c2a] font-semibold'>Publication & Licensing </span> – Articles are published under a Creative Commons license for maximum visibility.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className=""><span className='text-[ #002c2a] font-semibold'>DOI Assignment  </span> –  Each article is assigned a unique DOI for permanent identification and citation.</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className=""><span className='text-[ #002c2a] font-semibold'>Digital Archiving  </span> – Published research is digitally archived to ensure long-term availability and accessibility.</p>
                                 </div>

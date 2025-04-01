@@ -24,15 +24,15 @@ function Correction() {
 
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">The paper, revised and accepted following peer review, in its final form, including the abstract, text, references, and bibliography</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">All accompanying tables, illustrations, and data</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Any supplemental material provided with the paper</p>
                                 </div>
 
@@ -44,22 +44,22 @@ function Correction() {
                             </h1>
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p  >Corrections are published only for significant errors affecting factual information</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p  >Minor corrections (spelling, typographical, grammatical errors) will not be published</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p  >Corrections are published as errata or corrigenda for serious errors affecting scientific accuracy</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p  >Changes that don't materially affect the article or reader understanding are not published</p>
                                 </div>
@@ -72,27 +72,27 @@ function Correction() {
                             </h1>
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Authors must submit a letter to Editor-in-Chief stating reason and justification for changes</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">All changes must be clearly detailed and signed by all authors</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Editor-in-Chief consults with original Editors and Reviewers</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Refutations undergo peer review, typically with original referees</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Refutations may be published in Communications Arising or Correspondence sections</p>
                                 </div>

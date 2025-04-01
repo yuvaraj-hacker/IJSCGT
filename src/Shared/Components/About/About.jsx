@@ -79,21 +79,21 @@ function About() {
               <h1 className="bg-[ #002c2a] h-[1px] w-full  "></h1>
             </section>
             <section className='grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1  md:gap-10 gap-5 h-full'>
-              <div className='flex flex-col gap-2 h-full'>
+              <div className='flex flex-col gap-2 h-full border rounded-lg p-2 border-[#002c2a]'>
                 <h2 className='text-[#002c2a] font-bold merry md:text-lg underline underline-offset-2'>Editorial Excellence</h2>
                 <div className='flex gap-3 h-full'>
                   <p className="border-l-4 border-l-[#AECC53]"></p>
                   <p className="text-justify  md:text-base text-sm">Our distinguished editorial board comprises leading experts from prestigious research institutions and industrial organizations worldwide. This diverse team ensures rigorous peer review processes and maintains the highest standards of scientific integrity and publication quality.</p>
                 </div>
               </div>
-              <div className='flex flex-col gap-2 h-full'>
+              <div className='flex flex-col gap-2 h-full border rounded-lg p-2 border-[#002c2a]'>
                 <h2 className='text-[#002c2a] font-bold merry md:text-lg  underline underline-offset-2'>Global Reach and Impact</h2>
                 <div className='flex   gap-3'>
                   <p className="border-l-4 border-l-[#AECC53]"></p>
                   <p className="text-justify  md:text-base text-sm">ijscgt has built a strong international readership spanning six continents. Our articles are indexed in major academic databases, ensuring maximum visibility and impact for our authors. We pride ourselves on facilitating meaningful collaborations across geographical boundaries and disciplinary divides.</p>
                 </div>
               </div>
-              <div className='flex flex-col gap-2 h-full'>
+              <div className='flex flex-col gap-2 h-full border rounded-lg p-2 border-[#002c2a]'>
                 <h2 className='text-[#002c2a] font-bold merry md:text-lg  underline underline-offset-2' >Publication Ethics</h2>
                 <div className='flex   gap-3 h-full'>
                   <p className="border-l-4 border-l-[#AECC53]"></p>

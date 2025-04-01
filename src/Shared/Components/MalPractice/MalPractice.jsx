@@ -23,30 +23,30 @@ function MalPractice() {
                             </h1>
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className=""> Original work without plagiarism</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
                                     <p className="">Valid authorship with significant contributions</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Proper acknowledgment of sources and citations</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">No concurrent submissions to multiple journals</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Disclosure of conflicts of interest and funding</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Data accessibility and retention</p>
                                 </div>
@@ -58,32 +58,32 @@ function MalPractice() {
                             </h1>
                             <div className='flex flex-col gap-2'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p  >Maintain journal quality and integrity</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p  >Fair and unbiased publication decisions</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p  >Rigorous peer review process implementation</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p  >Confidential manuscript handling</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p  >Quality assurance of published content</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p  >Conflict of interest disclosure</p>
                                 </div>
@@ -97,27 +97,27 @@ function MalPractice() {
                             </h1>
                             <div className='flex flex-col gap-2'>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Maintain confidentiality of manuscripts</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Provide objective and constructive reviews</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Contribute to editorial decisions with clear arguments</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Disclosure of potential conflicts</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Identification of relevant uncited work</p>
                                 </div>

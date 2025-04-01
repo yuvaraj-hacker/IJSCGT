@@ -41,17 +41,17 @@ function AimandScope() {
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <p className="font-bold text-[#002C2A]">Sustainable Computing & Green IT : </p>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className=""> Energy-efficient computing and algorithms</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Low-power hardware design and embedded systems</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Green software engineering and sustainable coding practices</p>
                                 </div>
@@ -59,17 +59,17 @@ function AimandScope() {
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <p className="font-bold text-[#002C2A]">Renewable Energy & Smart Systems :  </p>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">AI-driven energy management and smart grid technologies</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Integration of renewable energy in computing infrastructures</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">IoT solutions for environmental sustainability</p>
                                 </div>
@@ -77,17 +77,17 @@ function AimandScope() {
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <p className="font-bold text-[#002C2A]"> Cloud Computing & Data Center Optimization :  </p>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Carbon footprint reduction in cloud and edge computing</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Energy-efficient data centers and sustainable storage solutions</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">AI-based cooling and power optimization</p>
                                 </div>
@@ -95,17 +95,17 @@ function AimandScope() {
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <p className="font-bold text-[#002C2A]">Artificial Intelligence for Sustainability :  </p>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">AI-driven climate change modeling and prediction</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">Machine learning for energy conservation and efficiency</p>
                                 </div>
                                 <div className='flex items-center gap-2'>
-                                    <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />
+                                     <BsDot className=" flex items-center  bg-[#AECC53] md:p-0 p-1.5 rounded-full text-[#AECC53] md:text-xs " />
 
                                     <p className="">AI-powered smart cities and sustainable urban planning</p>
                                 </div>
@@ -114,24 +114,24 @@ function AimandScope() {
                         <section>
                             <h1 className="bg-[ #002c2a] h-[1px] w-full  "></h1>
                         </section>
-                        <section className='grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1  md:gap-10 gap-5'>
-                            <div className='flex flex-col gap-2'>
+                        <section className='grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 h-full  md:gap-10 gap-5'>
+                            <div className='flex flex-col gap-2 border rounded-lg p-2 border-[#002c2a]'>
                                 <h2 className='text-[#002c2a] font-bold merry md:text-lg underline underline-offset-2'>Innovation</h2>
-                                <div className='flex   gap-3'>
+                                <div className='flex   gap-3 h-full'>
                                     <p className="border-l-4 border-l-[#AECC53]"></p>
                                     <p className="text-justify  md:text-base text-sm">Driving pioneering ideas and transformative technological breakthroughs across diverse disciplines.</p>
                                 </div>
                             </div>
-                            <div className='flex flex-col gap-2'>
+                            <div className='flex flex-col gap-2 border rounded-lg p-2 border-[#002c2a]'>
                                 <h2 className='text-[#002c2a] font-bold merry md:text-lg  underline underline-offset-2'>Collaboration</h2>
-                                <div className='flex   gap-3'>
+                                <div className='flex   gap-3 h-full'>
                                     <p className="border-l-4 border-l-[#AECC53]"></p>
                                     <p className="text-justify  md:text-base text-sm">Encouraging cross-disciplinary synergy and the exchange of knowledge to advance research and development.</p>
                                 </div>
                             </div>
-                            <div className='flex flex-col gap-2'>
+                            <div className='flex flex-col gap-2 border rounded-lg p-2 border-[#002c2a]'>
                                 <h2 className='text-[#002c2a] font-bold merry md:text-lg  underline underline-offset-2' >Research Excellence</h2>
-                                <div className='flex   gap-3'>
+                                <div className='flex   gap-3 h-full'>
                                     <p className="border-l-4 border-l-[#AECC53]"></p>
                                     <p className="text-justify  md:text-base text-sm">Promoting high-quality scholarship and original theoretical contributions that push the boundaries of innovation.</p>
                                 </div>

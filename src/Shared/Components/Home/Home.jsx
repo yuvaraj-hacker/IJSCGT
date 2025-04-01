@@ -30,9 +30,9 @@ function Home() {
                   Journal  overview
                 </h1>
               </div>
-              <div className="grid lg:grid-cols-3 md:grid-cols-2 md:gap-5 gap-3 grid-cols-1   ">
+              <div className="grid lg:grid-cols-3 md:grid-cols-2 md:gap-5 gap-3 grid-cols-1  h-full  ">
                 <div className="flex flex-col justify-between   ">
-                  <div className="  flex flex-col gap-2  ">
+                  <div className="  flex flex-col gap-2 h-full  ">
                     <div className="flex  gap-3 items-center " >
                       <h2 className="text-[ #002c2a] font-bold merry md:text-lg underline underline-offset-2  ">Open Access</h2>
                       <img src="/assets/Images/Checkmark.png" className="w-5" alt="" />
@@ -44,13 +44,13 @@ function Home() {
                   </div>
                 </div>
                 <div className="  flex flex-col justify-between ">
-                  <div className="  flex flex-col gap-2">
+                  <div className="  flex flex-col gap-2 h-full">
                     <div className="flex  gap-3 items-center">
                       <h2 className="text-[ #002c2a] font-bold merry md:text-lg underline underline-offset-2">Peer Review</h2>
                       <img src="/assets/Images/Checkmark.png" className="w-5" alt="" />
                     </div>
-                    <div className="flex gap-4">
-                      <p className="border-l-4 border-l-[#AECC53]"></p>
+                    <div className="flex gap-4 h-full">
+                       <p className="border-l-4 border-l-[#AECC53]"></p>
                       <p className=" md:text-base text-sm text-justify">IJSCGT upholds the highest standards of academic integrity through a rigorous blind peer-review process. Each submitted manuscript undergoes evaluation by expert reviewers to ensure originality, scientific quality, and relevance to the field.</p>
                     </div>
                   </div>
@@ -88,14 +88,14 @@ function Home() {
           </section>
         </div>
         <section className="bg-[#002C2A] rounded-2xl">
-          <div className="text-center flex flex-col gap-2 mx-auto max-w-[50rem] md:py-5 py-3 px-3 text-white ">
-            <p className="  md:text-base text-sm text-center">
+          <div className="text-center flex flex-col gap-2 mx-auto max-w-[50rem] md:py-5 py-3 px-4 text-white ">
+            <p className="  md:text-base text-sm text-justify md:text-center">
               We publish original research articles, review articles and technical notes. The journal reviews papers within two weeks of submission and publishes accepted articles on the internet immediately upon receiving the final versions.
               <span className="text-[ #002c2a] font-bold">   Our fast reviewing process is our strength. </span>
             </p>
-            <div className="flex items-center gap-4">
+            <div className="flex items-center md:gap-4 ">
               <i className="fi fi-tr-calendar text-white "></i>
-              <h1 className="bg-[#AECC53] text-[#002C2A] py-2 font-semibold md:text-base text-sm   text-center mx-auto p-3">
+              <h1 className="bg-[#AECC53] text-[#002C2A] py-2 font-semibold md:text-base text-sm  w-full  text-center mx-auto p-3">
                 Launch of Next Issue: 28
                 <sup>th</sup> Oct 2025
               </h1>

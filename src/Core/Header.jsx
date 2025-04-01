@@ -224,7 +224,7 @@ const Header = () => {
                 ))}
               </div>
             </nav>
-            <a href="https://ijscgt.com/ijscgt/index.php/ijscgt/about/submissions" target="_blank" rel="noopener noreferrer" className="w-fit  block  md:mb-0 mb-5 " >
+            <a href="https://ijscgt.com/Ijscgt/index.php/ijscgt/about/submissions" target="_blank" rel="noopener noreferrer" className="w-fit  block  md:mb-0 mb-5 " >
               <button className=" bg-[#AECC53] md:p-3 p-2 rounded-full text-[#002C2A] md:text-base text-sm  font-semibold cursor-pointer">
                 Submit Your Manuscript
               </button>

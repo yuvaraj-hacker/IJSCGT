@@ -12,10 +12,10 @@ const HelmetComponent = ({ title }) => {
             <meta property="og:type" content="website" />
             <meta property="og:title" content="International Journal of Sustainable Computing and Green Technologies (IJSCGT)" />
             <meta property="og:description" content="The International Journal of Sustainable Computing and Green Technologies (IJSCGT) publishes high-quality research in sustainable computing, green technologies, AI, and advanced engineering fields." />
-            <meta property="og:url" content="https://www.ijscgt.com/" />
-            <meta property="og:image" content="https://www.ijscgt.com/assets/Images/ijscgt.png" />
-            <link rel="canonical" href="https://www.ijscgt.com/" />
-            <link rel="icon" type="image/png" href="https://www.ijscgt.com/assets/Images/Favicon.png" />
+            <meta property="og:url" content="https://ijscgt.com/" />
+            <meta property="og:image" content="https://ijscgt.com/assets/Images/IJSCGT.png" />
+            <link rel="canonical" href="https://ijscgt.com/" />
+            <link rel="icon" type="image/png" href="https://ijscgt.com/assets/Images/favi.png" />
         </Helmet>
     );
 };

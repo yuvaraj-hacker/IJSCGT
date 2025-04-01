@@ -7,12 +7,13 @@ function About() {
       <section className="flex flex-col gap-5 max-w-[90rem] md:py-10 py-5  mx-auto md:px-5 px-3">
         <div className="  relative">
           <section className="flex flex-col md:gap-10 gap-5">
-            <section className="flex justify-between flex-wrap md:flex-nowrap gap-5">
-              <div className="flex flex-col justify-evenly">
-                <p className="text-justify md:text-base text-sm">
-                  The International Journal of Sustainable Computing and Green Technologies (IJSCGT) is a pioneering peer-reviewed, open-access publication that bridges the critical gap between technological innovation and environmental sustainability. Dedicated to advancing research in sustainable computing, the journal focuses on developing energy-efficient technologies, reducing carbon footprints, and creating environmentally friendly IT solutions. Its comprehensive scope encompasses research areas such as green data centers, low-power computing systems, renewable energy integration, and strategies for minimizing the environmental impact of digital technologies. By providing a global platform for researchers, engineers, and policymakers, IJSCGT aims to accelerate technological solutions that address pressing global challenges like climate change, electronic waste reduction, and sustainable digital infrastructure.
-                </p>
-              </div>
+            <section className="flex flex-col gap-4">
+              <h1 className="  text-[#002C2A] text-center merry font-semibold  lg:text-2xl   text-lg ">
+                About Us
+              </h1>
+              <p className="text-justify md:text-base text-sm">
+                The International Journal of Sustainable Computing and Green Technologies (IJSCGT) is a pioneering peer-reviewed, open-access publication that bridges the critical gap between technological innovation and environmental sustainability. Dedicated to advancing research in sustainable computing, the journal focuses on developing energy-efficient technologies, reducing carbon footprints, and creating environmentally friendly IT solutions. Its comprehensive scope encompasses research areas such as green data centers, low-power computing systems, renewable energy integration, and strategies for minimizing the environmental impact of digital technologies. By providing a global platform for researchers, engineers, and policymakers, IJSCGT aims to accelerate technological solutions that address pressing global challenges like climate change, electronic waste reduction, and sustainable digital infrastructure.
+              </p>
             </section>
             <section className="flex flex-col gap-4">
               <div className=' '>

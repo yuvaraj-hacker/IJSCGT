@@ -50,7 +50,7 @@ function Contact() {
                                             ></textarea>
                                         </div>
                                         <div className="text-center ">
-                                            <button type="submit" className="py-3 px-5 text-sm  bg-primary-blue-color  text-center   bg-[#AECC53] rounded-full cursor-pointer hover:text-primary-blue-color    text-[#002c2a]  bg-primary-red-color   " >
+                                            <button type="submit" className="py-3 px-5 text-sm  bg-primary-blue-color  text-center font-semibold   bg-[#AECC53] rounded-full cursor-pointer hover:text-primary-blue-color    text-[#002c2a]  bg-primary-red-color   " >
                                                 Send message
                                             </button>
                                         </div>

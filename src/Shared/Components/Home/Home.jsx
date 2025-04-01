@@ -17,7 +17,7 @@ function Home() {
                   is a scholarly, peer-reviewed journal dedicated to research in sustainable computing, energy-efficient technologies, and environmentally friendly innovations in the field of computer science and engineering. It aims to promote advancements in green computing, renewable energy applications in IT, eco-friendly hardware and software development, and sustainable digital infrastructures. The journal welcomes original research articles, reviews, and case studies that contribute to reducing the environmental impact of technology while enhancing computational efficiency and sustainability.
                 </p>
                 <Link to='/about' className="w-fit">
-                  <button className="md:p-3 p-2  rounded-full bg-[#AECC53] text-[ #002c2a] hover:bg-[ #002c2a]  shadow-md  duration-300 cursor-pointer w-[170px]">
+                  <button className="md:p-3 p-2  rounded-full bg-[#AECC53] text-[#002c2a]  font-semibold   shadow-md  duration-300 cursor-pointer w-[170px]">
                     Read More
                   </button>
                 </Link>

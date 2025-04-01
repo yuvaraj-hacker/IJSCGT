@@ -64,10 +64,10 @@ const Footer = () => {
         </div>
       </div>
       <h1 className="bg-slate-300 h-[1px] max-w-[92rem] mx-auto  "></h1>
-      <div className='grid lg:grid-cols-3 grid-cols-1  items-center  gap-2  py-3'>
+      <div className='grid lg:grid-cols-3 grid-cols-1  items-center  gap-2  md:py-3 pb-2'>
         <div>
         </div>
-        <div className="text-center    ">
+        <div className="text-center  md:text-base text-xs  ">
           <p>© 2025 <span className='hover:underline' > <Link to="/" target='_blank'>IJSCGT</Link> </span> . All Rights Reserved.</p>
         </div>
       </div>

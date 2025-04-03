@@ -14,7 +14,7 @@ function Guideline() {
                                 </h1>
                             </div>
                             <p className="text-justify md:text-base text-sm">
-                                International Journal of Sustainable Computing and Green Technologies (IJSCGT) welcomes high-quality, original research contributions in the fields of robotics, automation, artificial intelligence, and related disciplines. Authors must adhere to the following guidelines when preparing and submitting their manuscripts.
+                                International Journal of Sustainable Computing and Green Technologies welcomes high-quality, original research contributions in the fields of robotics, automation, artificial intelligence, and related disciplines. Authors must adhere to the following guidelines when preparing and submitting their manuscripts.
                             </p>
                         </section>
 

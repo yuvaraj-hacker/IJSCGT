@@ -14,7 +14,7 @@ function Plagiarism() {
                                 </h1>
                             </div>
                             <p className="text-justify md:text-base text-sm">
-                                International Journal of Sustainable Computing and Green Technologies (IJSCGT) maintains a strict zero-tolerance policy against plagiarism. All submitted manuscripts undergo rigorous plagiarism screening to ensure academic integrity.                            </p>                        </section>
+                                International Journal of Sustainable Computing and Green Technologies maintains a strict zero-tolerance policy against plagiarism. All submitted manuscripts undergo rigorous plagiarism screening to ensure academic integrity.                            </p>                        </section>
 
                         <section className="flex flex-col gap-2">
                             <h1 className="    merry   font-semibold text-[#002c2a]  underline underline-offset-2 lg:text-2xl   text-lg ">

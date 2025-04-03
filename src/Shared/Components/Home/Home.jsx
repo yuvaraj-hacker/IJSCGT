@@ -12,7 +12,7 @@ function Home() {
               <div className="flex flex-col justify-evenly md:gap-0 gap-3">
                 <p className="text-justify md:text-base text-sm">
                   <strong className="text-[#002c2a]">
-                    The International Journal of Sustainable Computing and Green Technologies (IJSCGT)
+                    The International Journal of Sustainable Computing and Green Technologies
                   </strong>{" "}
                   is a scholarly, peer-reviewed journal dedicated to research in sustainable computing, energy-efficient technologies, and environmentally friendly innovations in the field of computer science and engineering. It aims to promote advancements in green computing, renewable energy applications in IT, eco-friendly hardware and software development, and sustainable digital infrastructures. The journal welcomes original research articles, reviews, and case studies that contribute to reducing the environmental impact of technology while enhancing computational efficiency and sustainability.
                 </p>

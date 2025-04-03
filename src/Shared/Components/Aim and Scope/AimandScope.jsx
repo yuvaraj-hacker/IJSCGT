@@ -14,7 +14,7 @@ function AimandScope() {
                                 </h1>
                             </div>
                             <p className="text-justify md:text-base text-sm">
-                                The International Journal of Sustainable Computing and Green Technologies (IJSCGT) aims to advance research in sustainable computing, green IT, and eco-friendly technological solutions. The journal provides a global platform for researchers, academicians, and industry professionals to publish high-quality research addressing environmental challenges through innovative computing technologies. Its scope includes energy-efficient computing, green software engineering, AI for sustainability, renewable energy integration, cloud and data center optimization, IoT for environmental monitoring, e-waste management, circular economy in computing, and cybersecurity for sustainable systems. By fostering interdisciplinary collaboration, IJSCGT promotes technological advancements that drive sustainability, resource conservation, and a greener digital future.
+                                The International Journal of Sustainable Computing and Green Technologies aims to advance research in sustainable computing, green IT, and eco-friendly technological solutions. The journal provides a global platform for researchers, academicians, and industry professionals to publish high-quality research addressing environmental challenges through innovative computing technologies. Its scope includes energy-efficient computing, green software engineering, AI for sustainability, renewable energy integration, cloud and data center optimization, IoT for environmental monitoring, e-waste management, circular economy in computing, and cybersecurity for sustainable systems. By fostering interdisciplinary collaboration, IJSCGT promotes technological advancements that drive sustainability, resource conservation, and a greener digital future.
                             </p>
                         </section>
 
@@ -25,7 +25,7 @@ function AimandScope() {
                                 </h1>
                             </div>
                             <p className="text-justify md:text-base text-sm">
-                                The International Journal of Sustainable Computing and Green Technologies (IJSCGT) aims to advance research and innovation in sustainable computing, green technologies, and eco-friendly IT solutions. The journal serves as a global platform for researchers, academicians, and industry professionals to share high-quality research addressing environmental challenges through technological advancements.
+                                The International Journal of Sustainable Computing and Green Technologies aims to advance research and innovation in sustainable computing, green technologies, and eco-friendly IT solutions. The journal serves as a global platform for researchers, academicians, and industry professionals to share high-quality research addressing environmental challenges through technological advancements.
                             </p>
 
                         </section>

@@ -14,7 +14,7 @@ function Abstracting() {
                                 </h1>
                             </div>
                             <p className="text-justify md:text-base text-sm">
-                            The International Journal of Sustainable Computing and Green Technologies (IJSCGT) is committed to ensuring the visibility and accessibility of published research. Our journal is indexed in various reputed databases to enhance the reach and impact of our articles.                            </p>
+                            The International Journal of Sustainable Computing and Green Technologies is committed to ensuring the visibility and accessibility of published research. Our journal is indexed in various reputed databases to enhance the reach and impact of our articles.                            </p>
                         </section>
 
                         <section className="flex flex-col gap-2">

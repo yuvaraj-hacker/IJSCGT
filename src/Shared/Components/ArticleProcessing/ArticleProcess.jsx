@@ -14,7 +14,7 @@ function ArticleProcess() {
                                 </h1>
                             </div>
                             <p className="text-justify md:text-base text-sm">
-                                The International Journal of Sustainable Computing and Green Technologies (IJSCGT) follows a structured article processing workflow to ensure timely and high-quality publication of research articles.
+                                The International Journal of Sustainable Computing and Green Technologies follows a structured article processing workflow to ensure timely and high-quality publication of research articles.
                             </p>
                         </section>
 

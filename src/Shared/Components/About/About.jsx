@@ -12,7 +12,7 @@ function About() {
                 About Us
               </h1>
               <p className="text-justify md:text-base text-sm">
-                The International Journal of Sustainable Computing and Green Technologies (IJSCGT) is a pioneering peer-reviewed, open-access publication that bridges the critical gap between technological innovation and environmental sustainability. Dedicated to advancing research in sustainable computing, the journal focuses on developing energy-efficient technologies, reducing carbon footprints, and creating environmentally friendly IT solutions. Its comprehensive scope encompasses research areas such as green data centers, low-power computing systems, renewable energy integration, and strategies for minimizing the environmental impact of digital technologies. By providing a global platform for researchers, engineers, and policymakers, IJSCGT aims to accelerate technological solutions that address pressing global challenges like climate change, electronic waste reduction, and sustainable digital infrastructure.
+                The International Journal of Sustainable Computing and Green Technologies is a pioneering peer-reviewed, open-access publication that bridges the critical gap between technological innovation and environmental sustainability. Dedicated to advancing research in sustainable computing, the journal focuses on developing energy-efficient technologies, reducing carbon footprints, and creating environmentally friendly IT solutions. Its comprehensive scope encompasses research areas such as green data centers, low-power computing systems, renewable energy integration, and strategies for minimizing the environmental impact of digital technologies. By providing a global platform for researchers, engineers, and policymakers, IJSCGT aims to accelerate technological solutions that address pressing global challenges like climate change, electronic waste reduction, and sustainable digital infrastructure.
               </p>
             </section>
             <section className="flex flex-col gap-4">
@@ -22,7 +22,7 @@ function About() {
                 </h1>
               </div>
               <p className="text-justify md:text-base text-sm">
-                The International Journal of Sustainable Computing and Green Technologies (IJSCGT) is dedicated to publishing innovative research that integrates computing with sustainability and green technologies. The journal covers a wide range of topics, including but not limited to:              </p>
+                The International Journal of Sustainable Computing and Green Technologies is dedicated to publishing innovative research that integrates computing with sustainability and green technologies. The journal covers a wide range of topics, including but not limited to:              </p>
               <div className='flex flex-col gap-2 md:text-base text-sm'>
                 <div className='flex items-center gap-2'>
                   <BsDot className=" flex items-center bg-[#AECC53] rounded-full  text-[#AECC53] text-xs" />

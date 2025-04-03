@@ -14,7 +14,7 @@ function PeerReview() {
                                 </h1>
                             </div>
                             <p className="text-justify md:text-base text-sm">
-                                The International Journal of Sustainable Computing and Green Technologies (IJSCGT) follows a rigorous double-blind peer review process to ensure the publication of high-quality and impactful research.
+                                The International Journal of Sustainable Computing and Green Technologies follows a rigorous double-blind peer review process to ensure the publication of high-quality and impactful research.
                             </p>
                         </section>
 
